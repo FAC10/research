@@ -10,10 +10,10 @@ _Do not merge a pull request if the README.md is not updated accordingly :wink:_
 
 
 ### Week 1
-**Command line:**  
+**Command line and Git & GitHub:**  
 Replace "`nice-link-here`" with "`./week-1/<your file name>`"
 
-**All other topics:**  
+**Accessibility and CSS:**  
 Replace each "`nice-link-here`" with:
 + **Chosen website** - the _hosted_ version of the website you have chosen to work on
 

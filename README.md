@@ -16,8 +16,6 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Unit vs Integration testing](nice-link-here)
 
-+ [Manual testing vs. Automation testing](nice-link-here)
-
 + [Technical Spikes](nice-link-here)
 
 + [QUnit Assertions](nice-link-here)

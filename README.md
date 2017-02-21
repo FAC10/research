@@ -6,8 +6,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Git & GitHub](nice-link-here)
 
-+ Accessibility - [Chosen website](nice-link-here)  
-[Before](nice-link-here) | [After](nice-link-here)
++ [Accessibility](week-1/accessibility.md)
 
 + CSS - [Chosen website](https://majakudlicka.github.io/)  
 [Before](https://majakudlicka.github.io/) | [After](http://codepen.io/majakudlicka/pen/ZBGZxV?editors=1100)

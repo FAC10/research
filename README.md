@@ -2,7 +2,7 @@
 Research day should be thought of as a [spike](http://www.extremeprogramming.org/rules/spike.html) to help with your end-of-week project
 
 ## Week 1 - toolkit
-+ [Command Line](nice-link-here)
++ [Command Line](./week-1/customizing-command-line.md)
 
 + [Git & GitHub](nice-link-here)
 

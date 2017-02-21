@@ -4,7 +4,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 ## Week 1 - toolkit
 + [Command Line](nice-link-here)
 
-+ [Git & GitHub](nice-link-here)
++ [Git & GitHub](https://github.com/FAC10/research.git)
 
 + Accessibility - [Chosen website](nice-link-here)  
 [Before](nice-link-here) | [After](nice-link-here)

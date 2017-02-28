@@ -11,7 +11,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 [Before](https://finnhodgkin.github.io/Accessible-nav-comparison/site-before-change/) | [After](https://finnhodgkin.github.io/Accessible-nav-comparison/)
 
 + [CSS](https://github.com/yvonne-liu/FAC-Week1/blob/master/Research-Project-CSS/research.md) - [Maja's Website](https://majakudlicka.github.io/)  
-[Before](https://majakudlicka.github.io/) | [After](http://codepen.io/majakudlicka/pen/ZBGZxV?editors=1100)
+[Before](https://github.com/majakudlicka/majakudlicka.github.io/tree/5b0303328e47295a4b7908b15024eb764368a768) | [After](https://github.com/majakudlicka/majakudlicka.github.io)
 
 ## Week 2 - testing
 
@@ -21,7 +21,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [QUnit Assertions](nice-link-here)
 
-+ [BlanketJS](nice-link-here)
++ [BlanketJS](https://github.com/FAC10/research/blob/master/week-2/blanketjs.md)
 
 ## Week 3 - APIs
 

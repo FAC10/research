@@ -17,7 +17,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Technical Spikes](nice-link-here)
 
-+ [QUnit Assertions](nice-link-here)
++ [QUnit Assertions](./week-2/QUnit-assertions.md)
 
 + [BlanketJS](nice-link-here)
 

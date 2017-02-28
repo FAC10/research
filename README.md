@@ -21,7 +21,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [QUnit Assertions](nice-link-here)
 
-+ [BlanketJS](nice-link-here)
++ [BlanketJS](https://github.com/FAC10/research/blob/master/week-2/blanketjs.md)
 
 ## Week 3 - APIs
 

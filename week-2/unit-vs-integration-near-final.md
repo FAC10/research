@@ -37,4 +37,4 @@ There are currently 3 main approaches to integration testing:
 ### Handy comparison
 [Stolen from here](http://www.softwaretestingclass.com/what-is-difference-between-unit-testing-and-integration-testing/)
  <br> <br>
-![](/assets/unit--v-int-image.png)
+![](./assets/unit--v-int-image.png)

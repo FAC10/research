@@ -17,3 +17,8 @@ Integration tests require a lot more work to put together, but they also have mo
 eg. a user may not care/understand that the function getUserInput() works properly, but when this is shown to work in relation to their overall experience of the app they very well may care and/or understand re: the tests. <br>
 For an integration test the actual databases/information is used rather than mocked information meaning you get a more accurate view of how the system works together.<br>
 the name integration testing refers to the integration of each of the functions into eachother
+
+### Handy comparison
+[stolen from here](http://www.softwaretestingclass.com/what-is-difference-between-unit-testing-and-integration-testing/)
+ <br> <br>
+![](/assets/unit--v-int-image.png)

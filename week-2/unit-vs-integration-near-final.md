@@ -33,11 +33,6 @@ There are currently 3 main approaches to integration testing:
 
 3. **Umbrella approach** requires testing along a given functionality elements. The primary advantage of this approach is that it provides completely tested functions early on in the release cycle.
 
-Unit tests should only depend on the tested implementation unit; they should not depend on external components
-such as databases, network services, web browser interaction. When such external elements are required, unit tests use mock objects.
-
-Unit tests typically refer to tests that test a minimal amount of code, for example a single function.
-
 A unit test tests code that you have complete control over whereas an integration test tests how your code uses or "integrates" with some other code.
 
 Black box testing – Internal system design is not considered in this type of testing. Tests are based on requirements and functionality.

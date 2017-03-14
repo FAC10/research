@@ -1,5 +1,7 @@
 # Engineering
 
+Further reading: [The Node Way](http://thenodeway.io/)
+
 ## Modules
 
 Node encourages composing complex and powerful applications out of smaller simpler pieces.

@@ -27,6 +27,8 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 ## Week 4 - Node 1
 
+[Architecture](https://github.com/FAC10/research/tree/65566b076fa11c4f9228712b4f505c0b97711655)
+
 ## Week 5 - Node 2
 
 ## Week 6 - Postgres

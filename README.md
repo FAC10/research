@@ -29,6 +29,9 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Deploying and Environmental Variables Guide](./week-4/deploying-guide.md)
 
++ [Engineering](./week-4/engineering/engineering.md)
+
+
 ## Week 5 - Node 2
 
 ## Week 6 - Postgres

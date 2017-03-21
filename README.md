@@ -17,7 +17,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Unit vs Integration testing](nice-link-here)
 
-+ [Technical Spikes](./week-2/  technical-spikes.md)
++ [Technical Spikes](./week-2/technical-spikes.md)
 
 + [QUnit Assertions](./week-2/QUnit-assertions.md)
 
@@ -27,10 +27,19 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 ## Week 4 - Node 1
 
-[Engineering](./week-4/engineering/engineering.md)
-[Architecture](https://github.com/FAC10/research/tree/65566b076fa11c4f9228712b4f505c0b97711655)
+
++ [Architecture](https://github.com/FAC10/research/tree/65566b076fa11c4f9228712b4f505c0b97711655)
+
++ [Deploying and Environmental Variables Guide](./week-4/deploying-guide.md)
+
++ [Engineering](./week-4/engineering/engineering.md)
+
 
 ## Week 5 - Node 2
+
++ [Buffers and Streams](https://github.com/FAC10/buffers-and-streams)
+
++ [Continuous Integration & Travis](https://github.com/FAC10/TravisPractice)
 
 ## Week 6 - Postgres
 

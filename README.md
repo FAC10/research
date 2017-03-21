@@ -34,6 +34,8 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 ## Week 5 - Node 2
 
++ [Buffers and Streams](https://github.com/FAC10/buffers-and-streams)
+
 + [Continuous Integration & Travis](https://github.com/FAC10/TravisPractice)
 
 ## Week 6 - Postgres

@@ -33,7 +33,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 
 ## Week 5 - Node 2
-
++[Buffers and Streams](https://github.com/FAC10/buffers-and-streams)
 ## Week 6 - Postgres
 
 ## Week 7 - Hapi views

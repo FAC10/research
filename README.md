@@ -41,6 +41,9 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Continuous Integration & Travis](https://github.com/FAC10/TravisPractice)
 
++ [Make an external request from the server](https://github.com/FAC10/node-server-api-request)
+
+
 ## Week 6 - Postgres
 
 ## Week 7 - Hapi views

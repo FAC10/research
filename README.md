@@ -46,6 +46,8 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 ## Week 6 - Postgres
 
++ [Database setup and maintenance](./week-6/database-setup-maintenance/database-setup-maintenance.md)
+
 ## Week 7 - Hapi views
 
 ## Week 8 - Hapi auth

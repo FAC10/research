@@ -48,7 +48,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Database setup and maintenance](./week-6/database-setup-maintenance/database-setup-maintenance.md)
 
-+ [Preventing Script Injections](./research/week-6/week-6-code-injection.md)
++ [Preventing Script Injections](./week-6/week-6-code-injection.md)
 
 ## Week 7 - Hapi views
 

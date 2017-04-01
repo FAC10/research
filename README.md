@@ -26,8 +26,6 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [BlanketJS](https://github.com/FAC10/research/blob/master/week-2/blanketjs.md)
 
-## Week 3 - APIs
-
 ## Week 4 - Node 1
 [Instructions](https://github.com/foundersandcoders/master-reference/blob/f67d3eccea46ddbbfff49e194a110cbcb14ca7ce/coursebook/week-4/research-afternoon.md)
 
@@ -37,7 +35,6 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Engineering](./week-4/engineering/engineering.md)
 
-
 ## Week 5 - Node 2
 [Instructions](https://github.com/foundersandcoders/master-reference/blob/ed7465fd2c2f105e1bad76149947ee35bb96745f/coursebook/week-5/research-afternoon.md)
 
@@ -46,7 +43,6 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 + [Continuous Integration & Travis](https://github.com/FAC10/TravisPractice)
 
 + [Make an external request from the server](https://github.com/FAC10/node-server-api-request)
-
 
 ## Week 6 - Postgres
 [Instructions](https://github.com/foundersandcoders/master-reference/blob/2afb8a6506987cb65cd2aa57250922f97e416426/coursebook/week-6/research-afternoon.md)

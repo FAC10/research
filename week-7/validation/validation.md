@@ -58,6 +58,8 @@ We saw about SQL injection last week and how dangerous it can be.<br> ([If you w
 
 ## How
 
-You can write your own server side validation with regex, escaping any special characters etc, some modules have it built in (as we found out last week PG does a lot of input sanitisation for you), but we can also use Joi.
+You can write your own server side validation with regex, escaping any special characters etc, some modules have it built in (as we found out last week PG does a lot of input sanitisation for you), but we can also use the Joi module.
+
+Joi validates Hapi headers, path parameters, query parameters, and payload data.
 
 Check out [this example of how to use Joi](/server.js)

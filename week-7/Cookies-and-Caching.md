@@ -1,7 +1,7 @@
 
 # Cookies
 
-![alt tag](http://cdn.makeuseof.com/wp-content/uploads/2016/03/supercookies-670x335.jpg?187d39)
+![image](http://cdn.makeuseof.com/wp-content/uploads/2016/03/supercookies-670x335.jpg?187d39)
 
 ### History
 
@@ -24,10 +24,10 @@ The cookie has many names: HTTP Cookie, Web Cookie, Internet Cookie, Browser Coo
 
 ### Stateless vs Stateful
 stateless: there is no memory of the past.
-* Every transaction is performed as if it were being performed for the first time
+* keep track of the previously stored information which is used for current transaction.
 
 stateful: there is memory of the past.
-* Every transaction is performed as if it were being done for the very first time
+* every transaction is performed as if it were being done for the very first time. There is no previously stored information used for the current transaction.
 
 ### Question:
 I was reading the wiki for cookies and they said it is needed to retain stateful information such as item in cart etc. But why do you need to do it? Why don't just store the state in database table for example?
@@ -73,7 +73,7 @@ When a user visits a website a cookie is placed onto the computer. The cookie ha
 
 **How is this achieved?** Through tracking using third-party cookies.
 
-![alt tag](https://www.dropbox.com/s/fro4o9c3x4irnot/cookie.png)
+![image](../images/behavourialTargeting.png)
 
 - Effective tool vs. violation of privacy debate. A site has access to your browsing history within its own site. That's how you see relavant ads from the same website. This is not bad, it's actually quite helpful sometimes. But what about other unwanted ads?
 

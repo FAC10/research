@@ -55,6 +55,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 ## Week 7 - Hapi views
 
++ [Authentication](https://github.com/FAC10/week7-authentication-research)
 + [Templating with helper functions](https://github.com/yvonne-liu/week7-research)
 + [Cookies and Caching](./week-7/Cookies-and-Caching.md)
 

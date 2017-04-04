@@ -62,4 +62,4 @@ You can write your own server side validation with regex, escaping any special c
 
 Joi validates Hapi headers, path parameters, query parameters, and payload data.
 
-Check out [this example of how to use Joi](./week-7/validation/server.js)
+Check out [this example of how to use Joi](./server.js)

@@ -50,6 +50,8 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 
 + [Preventing Script Injections](./week-6/week-6-code-injection.md)
 
++ [Postgres Testing](https://github.com/FAC10/Postgresql-Testing/blob/master/README.md)
+
 ## Week 7 - Hapi views
 
 ## Week 8 - Hapi auth

@@ -49,17 +49,17 @@ I was reading the wiki for cookies and they said it is needed to retain stateful
 
 
 ### Types of cookies
-** Session cookie ** - also known as an in-memory cookie or transient cookie. Exists only in temporary memory while a user navigates a site.
+**Session cookie** - also known as an in-memory cookie or transient cookie. Exists only in temporary memory while a user navigates a site.
 
-** Persistent cookie or Tracking cookies ** - Rather than expiring when a browser closes a persistent cookie expires at a specific date or after a specific length of time. Its information will be transmitted to the server every time the user visits the website it belongs to or views a resource belonging to that website.
+**Persistent cookie or Tracking cookies** - Rather than expiring when a browser closes a persistent cookie expires at a specific date or after a specific length of time. Its information will be transmitted to the server every time the user visits the website it belongs to or views a resource belonging to that website.
 A secure cookie can only be transmitted over an encrypted connection i.e HTTPS.
 
-** Third-party cookies ** - These are cookies that allow websites to track users from a different domain.
+**Third-party cookies** - These are cookies that allow websites to track users from a different domain.
 
-** Flash cookies ** - respawn cookies after they have been deleted. In order to track an individual from one website to another, the different sites all have to share some code from a third party website. The code that creates and reads the tracking cookie is hosted by the third party and it can keep reading its own cookies as you hop from site to site.
+**Flash cookies** - respawn cookies after they have been deleted. In order to track an individual from one website to another, the different sites all have to share some code from a third party website. The code that creates and reads the tracking cookie is hosted by the third party and it can keep reading its own cookies as you hop from site to site.
 Because LSOs are stored by your Flash player and not your browser they can be used to track all the web activity originating from one computer, not just from one browser.
 
-** Authentication cookies **
+**Authentication cookies**
 An important type of cookie used by web servers to know whether the user is logged in or not.
 The security of an authentication cookie depends on the security of the issuing website and the user's browser and whether or not the cookie data is encrypted.
 

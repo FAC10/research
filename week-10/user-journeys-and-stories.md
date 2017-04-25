@@ -5,7 +5,7 @@
     - demonstrates the way users _currently_ interact with the product
     - demonstrates the way users _could_ interact with the product
 
-2.  Why do I make a user story?
+2.  Why do I make a user journey?
     - It helps _demonstrates the vision for the project_ - They show an example of what the future state of whatever it is you are designing could be. Along with personas (we'll talk about this later) they can be one of the key outputs from the requirements gathering stage at the beginning of a project.
 
     - They help us _understand user behavior_ – User journeys can help you work out how users are going to interact with your system and what they expect from it.
@@ -18,11 +18,11 @@
 
     Basically, using a sitemap that serves as a hierarchical diagram showing the structure of a website or application. They are used by User Experience Designers and Information Architects to define the _taxonomy_ through grouping of related content.
 
-3.  _When_ should I create a user story?
+3.  _When_ should I create a user journey?
 
   User journeys typically come towards the beginning of a project in the discovery or requirements gathering phase, normally after personas. This is both to visualize the user requirements and help feed into other design activities such as information architecture or wireframing. However, they can also be used further down the line when scoping out pieces of functionality in more detail.
 
-4.  _How_ do I create a user story?
+4.  _How_ do I create a user journey?
 
   Make sure it satisfies the following requirements, at least!
 

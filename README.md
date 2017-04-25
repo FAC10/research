@@ -63,3 +63,4 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 ## Week 10 - UX / UI
 
 + [User Journeys and Stories](./week-10/user-journeys-and-stories.md)
++ [Product owner](./week-10/product-owner.md)

@@ -1,6 +1,7 @@
 
 #### What is a user _journey_?
 
+
 1.  A user journey is a series of steps which demonstrates a scenario which how a user _might_ interact with the thing you are designing. They're typically used in two ways:
     - demonstrates the way users _currently_ interact with the product
     - demonstrates the way users _could_ interact with the product
@@ -38,12 +39,12 @@
 
   You will want to think broadly in each step about things such as:
 
-  **Context** – Where is the user? What is around them? Are there any external factors which may be distracting them?
-  **Progression** – How does each step enable them to get to the next?
-  **Devices** – what device are they using? Are they a novice or expert? What features does the device have?
-  **Functionality** – What type of functionality are they expecting? Is it achievable?
-  **Emotion** – What is their emotional state in each step? Are they engaged, bored, annoyed?
-  
+  - **Context** – Where is the user? What is around them? Are there any - external factors which may be distracting them?
+  - **Progression** – How does each step enable them to get to the next?
+  - **Devices** – what device are they using? Are they a novice or expert? - What features does the device have?
+  - **Functionality** – What type of functionality are they expecting? Is it - achievable?
+  - **Emotion** – What is their emotional state in each step? Are they engaged, bored, annoyed?
+
 ![lego-user-journey](/images/wheel-exp-map-lego-1024x768.png)
 
 ## What are user stories?
@@ -69,13 +70,59 @@ _As a user, I can indicate folders not to backup so that my backup drive isn't f
 Themes may be thought of as groups of related stories. Often the stories all contribute to a common goal or are related in some obvious way.
 
 
-## What is the difference between a Journey and a Story?
+## What is a user persona?
 
-## What is a ‘User Persona’?
+<img width="200" src="./../images/user-journey-persona-unknown.jpg" />
 
-- ...
 
-## How to make use of personas in your projects
+### Why do I need a user persona?
+
+<img width="auto" src="./../images/user-journey-persona-nerd-coder.jpg" />
+
+- we need help in making key design and functionality decisions during the UX process
+- we need help when talking with our clients about what the user experience should be like
+- we need help in creating realistic user journeys
+
+
+### Who is the persona ?
+
+<img width="auto" src="./../images/user-journey-persona-talk.png" />
+
+- based on real users
+- represents a particular audience segment
+- based on various types of qualitative and quantitative research
+- known motivations, frustrations (i.e. who they are)
+
+
+### When to create a persona?
+
+- create a persona during the initial discovery phase of your app.
+
+
+### How do I create a persona?
+
+- speak with your client – they will often have some information or insights about their audience in the form of marketing information, previous research and customer groups. However, **take this with a grain of salt as their perceptions of who their audience are may not always match the reality**.
+
+- speaking with users – probably one of the most valuable ways of getting good qualitative data is to speak to the people who are likely to use it. This of course means you need a vague idea of the sorts of people you need to speak to.
+
+- bespoke analytics - for example, social media interactions (a great way of seeing what type of people are interacting with similar brands). The more you can find out the richer and more valuable your personas will be.
+
+
+### What info should be included in user persona?
+
+<img width="auto" src="./../images/user-journey-persona-clark.png" />
+
+- picture - try not to use stock photography as this - makes it hard to think about the persona as a real life person and can be difficult in - gaining credibility.
+- demographic data such as age/location
+- motivations
+- goals
+- pain points or frustrations
+- a short bio about their background
+- technical ability along with which devices they use and how often
+- other brands or websites they may like
+
+
+### How to make use of personas in your projects
 
 Get the maximum use out of your personas. You might use your personas to:
 

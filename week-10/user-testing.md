@@ -13,8 +13,13 @@ Qualitative research deals with emotions, human behavior, and subjective matters
 
 Quantitative research focuses on data and hard numbers.
 
+
+
 <footer>- <a href='https://www.quora.com/What-is-qualitative-and-quantitative-research-in-UX-design'>Ana Zdravic answering a question on Quora</a></footer>
 </blockquote>
+
+Examples of quantitative data are about click-through and conversion rates.
+
 
 In practice, both are important, and the combination of the two is important to your overall understanding of the usability of your website.
 My Quantitative data might tell me how long each user took to complete a given task, or how long they spent on each page, but it doesn't tell me why they took extra time, or how that experience made them feel. <br>
@@ -43,28 +48,22 @@ Say 25% of my users took a lot longer than expected to complete a task, my Quali
 
   Ask them to simply play around and explore the product.
 
-  ### There are many kinds of usability testing
- qualitative, quantitative, summative, formative, formal, informal, large sample, small sample, comparative tests, benchmarking tests, and on and on. They’re all valuable for different purposes.
+Most of this methodologies can be run as:
 
- Quantitative testing is usually about click-through and conversion rates over a relatively large sample size.
+ _Formative tests_</br> provide the tester with the information they need to improve the testing (usability) process while it's happening.
 
- Qualitative testing is usually done in a less-structured format with fewer participants. Its goal is to identify the underlying sentiment, rationale or motivation of the target with respect to the advertiser’s brand, product, site and/or category.
+ _Summative tests_</br> happen at the end of a tests round to test the overall knowledge (usability) of the product.
 
- Formative tests provide the tester with the information they need to improve the testing (usability) process while it's happening.
+ ### A dedicated tester may follow different approaches:
+ 1. Exploratory testing
 
- Summative tests happen at the end of a tests round to test the overall knowledge (usability) of the product.
-
- ### Methodology:
- 1. Exploratory testing is any testing to the extent that the tester actively controls the design of the tests as those tests are performed and uses information gained while testing to design new and better tests.
+ is any testing to the extent that the tester actively controls the design of the tests as those tests are performed and uses information gained while testing to design new and better tests.
  Is essentially testing without a defined script.
 
- 2. A set of scripted test usually involves:
+ 2. A set of scripted test
+
+  usually involves:
    * Page consistency in case of multi-page web sties.
    * Testing the database connections.
    * Testing functions with sample input to make sure they work fine (especially those that are algorithm-like).
    * Re-testing the functionalities that can be affected by the changes just made.
-
- Test can be also done by:
- * One-on-one interviews.
- * Usability testing (also done in a one-on-one) usually performed in controlled environment. Tasks are specifically outlined and feedback is direct.
- * Focus groups are quite defined samples of users testing a given topic.  

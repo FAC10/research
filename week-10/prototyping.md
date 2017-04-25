@@ -22,6 +22,38 @@
 > _'How will the product be used?'_
 _
 
+Wireframing
+===
+
+Creating a wireframe is one of the first steps you should take before designing a website.
+
+A wireframe helps you **organize and simplify the elements and content within a website** and is an essential tool in the development process.
+
+A wireframe is basically a **visual representation of content layout in a website design**.
+
+# Joey
+
+### Prototype
+
+Typically refers to an interactive prototype of some kind which allows users to navigate from page to page and use functionality such as drop down menus.
+
+#### Advantages
+
+Typically a website prototype will go through a few rounds of usability testing where it is constantly refined until the project team is confident it can progress to the next phase of development.
+
+- Saves time and money.
+- Avoids making wrong assumptions without testing
+- The key reason for creating the prototype is to get feedback from stakeholders and users to make sure it is going in the right direction
+- It allows you to fix any areas which receive negative feedback, and it allows for discussion about what is really needed in the final build and what could be removed, which can save a huge amount of money in development later on in the project.
+- A website prototype can be an excellent specification document for designers and developers (a lengthy functional specification document is often difficult to interpret and difficult to engage with, but a fully interactive prototype allows them to visualise what is needed quickly and easily.
+- The cost of having to make changes to a fully developed website can be much larger than the time needed for prototyping.
+
+#### Disadvantages
+
+- Takes more time to plan the project before actual development can start
+- Some project managers and stakeholders get uncomfortable that the project will not meet deadlines (however, if planned in properly the time to create a prototype is minimal and can often save time down the line by making sure the developers are clear on exactly what they need to create)
+- Difficult to decide which prototyping method or tool to choose.
+
 ### Free Prototyping tools
 
 - [Mockplus](https://www.mockplus.com/?utm_source=promote&utm_medium=click&utm_campaign=becky)
@@ -67,17 +99,6 @@ Incremental prototyping refers to building multiple functional prototypes of the
 
 #### Extreme Prototyping
 Extreme prototyping is used in the web development domain. It consists of three sequential phases. First, a basic prototype with all the existing pages is presented in the HTML format. Then the data processing is simulated using a prototype services layer. Finally, the services are implemented and integrated to the final prototype. This process is called Extreme Prototyping used to draw attention to the second phase of the process, where a fully functional UI is developed with very little regard to the actual services.
-
-Wireframing
-===
-
-Creating a wireframe is one of the first steps you should take before designing a website.
-
-A wireframe helps you **organize and simplify the elements and content within a website** and is an essential tool in the development process.
-
-A wireframe is basically a **visual representation of content layout in a website design**.
-
-
 
 # Samatar
 
@@ -146,30 +167,6 @@ The advantages of evolutionary prototyping are:
 A problem with evolutionary prototyping is knowing when it is necessary to stop tweaking the system and actually finish the development.
 
 ![evolution](http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/prototyping_RAD/miniweb/images/evolutionary.jpg)
-
-
-# Joey
-
-### Prototype
-
-Typically refers to an interactive prototype of some kind which allows users to navigate from page to page and use functionality such as drop down menus.
-
-#### Advantages
-
-Typically a website prototype will go through a few rounds of usability testing where it is constantly refined until the project team is confident it can progress to the next phase of development.
-
-- Saves time and money.
-- Avoids making wrong assumptions without testing
-- The key reason for creating the prototype is to get feedback from stakeholders and users to make sure it is going in the right direction
-- It allows you to fix any areas which receive negative feedback, and it allows for discussion about what is really needed in the final build and what could be removed, which can save a huge amount of money in development later on in the project.
-- A website prototype can be an excellent specification document for designers and developers (a lengthy functional specification document is often difficult to interpret and difficult to engage with, but a fully interactive prototype allows them to visualise what is needed quickly and easily.
-- The cost of having to make changes to a fully developed website can be much larger than the time needed for prototyping.
-
-#### Disadvantages
-
-- Takes more time to plan the project before actual development can start
-- Some project managers and stakeholders get uncomfortable that the project will not meet deadlines (however, if planned in properly the time to create a prototype is minimal and can often save time down the line by making sure the developers are clear on exactly what they need to create)
-- Difficult to decide which prototyping method or tool to choose.
 
 # Lucy
 

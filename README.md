@@ -59,4 +59,7 @@ Research day should be thought of as a [spike](http://www.extremeprogramming.org
 + [Templating with helper functions](https://github.com/yvonne-liu/week7-research)
 + [Cookies and Caching](./week-7/Cookies-and-Caching.md)
 
-## Week 8 - Hapi auth
+
+## Week 10 - UX / UI
+
++ [User Journeys and Stories](./week-10/user-journeys-and-stories.md)

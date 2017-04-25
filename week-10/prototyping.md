@@ -5,6 +5,28 @@
 2. What is a prototype?
 3. Can you come up with ideas for different methods for prototyping?
 
+# Alice
+
+### Difference between wireframes and prototypes
+
+- A **wireframe** should answer the questions:
+
+> _'How does the product look?'_
+
+> _'What information does the product present?'_
+
+- A **prototype** should answer the questions:
+
+> _'How do I interact with the product?'_
+
+> _'How will the product be used?'_
+_
+
+### Free Prototyping tools
+
+- [Mockplus](https://www.mockplus.com/?utm_source=promote&utm_medium=click&utm_campaign=becky)
+- [Origami (for mac only)](https://www.mockplus.com/?utm_source=promote&utm_medium=click&utm_campaign=becky)
+
 # Akin
 
 ## Software Prototyping
@@ -148,30 +170,6 @@ Typically a website prototype will go through a few rounds of usability testing 
 - Takes more time to plan the project before actual development can start
 - Some project managers and stakeholders get uncomfortable that the project will not meet deadlines (however, if planned in properly the time to create a prototype is minimal and can often save time down the line by making sure the developers are clear on exactly what they need to create)
 - Difficult to decide which prototyping method or tool to choose.
-
-
-# Alice
-
-### Free Prototyping tools
-
-- [Mockplus](https://www.mockplus.com/?utm_source=promote&utm_medium=click&utm_campaign=becky)
-- [Origami (for mac only)](https://www.mockplus.com/?utm_source=promote&utm_medium=click&utm_campaign=becky)
-
-### Difference between wireframes and prototypes
-
-- A **wireframe** should answer the questions:
-
-> _'How does the product look?'_
-
-> _'What information does the product present?'_
-
-- A **prototype** should answer the questions:
-
-> _'How do I interact with the product?'_
-
-> _'How will the product be used?'_
-_
-
 
 # Lucy
 

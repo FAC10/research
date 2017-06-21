@@ -17,6 +17,9 @@ Trust! In the agile Scrum world, instead of providing complete, detailed descrip
 Within agile development, Scrum teams are supported by two specific roles. The first is a ScrumMaster, who can be thought of as a coach for the team, helping team members use the Scrum process to perform at the highest level.
 The product owner (PO) is the other role, and in Scrum software development, represents the business, customers or users, and guides the team toward building the right product.
 
+Further reading:
+[Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
+
 # The Product Owner
 
 ![Product owner chart](http://d142fzqt4xuj2d.cloudfront.net/wp-content/uploads/2016/04/Product-owner-role-responsibilities.png)
@@ -25,7 +28,7 @@ The product owner (PO) is the other role, and in Scrum software development, rep
 
 For product-based organizations or on internal projects, having a Product Owner who is an integral part of the project team is fairly standard. For service-based organizations, where most of the work done is based on a contract with a customer, it is often that customer who must serve as the Product Owner.
 
-The PO is responsible for the Product Backlog, including its content, availability, and ordering. POs are the only team member who can mark user stories as done.
+The PO is responsible for the Product Backlog, including its content, availability, and ordering. The PO is the only team member who can mark user stories as complete.
 
 Examples of PO tasks (taken from a job spec): 
 

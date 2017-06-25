@@ -36,7 +36,7 @@ They vary among various GNU/Linux distros.
 
 - Portage and emerge are used by Gentoo Linux, Funtoo Linux, and Sabayon Linux. It is inspired by the BSD ports system and uses text based "ebuilds" to automatically download, customize, build, and update packages from source code. It has automatic dependency checking and allows multiple versions of a software package to be installed into different "slots" on the same system. Portage also employs "use flags" to allow the user to fully customize a software build to suit the needs of their platform in an automated fashion. While source code distribution and customization is the preferred methodology, some larger packages that would take many hours to compile on a typical desktop computer are also offered as pre-compiled binaries in order to ease installation.
 
-slackpkg and slapt-get, which are used by Slackware and [the latter] works with a binary package format that is essentially a xz-compressed tar archive with the file extension .txz.
+ - slackpkg and slapt-get, which are used by Slackware and [the latter] works with a binary package format that is essentially a xz-compressed tar archive with the file extension .txz.
 
 All these are command line tools, but some of them have also GUI counterparts, such as the Ubuntu Software Center.
 
